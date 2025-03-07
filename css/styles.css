@@ -101,7 +101,7 @@ h6 {
     background-color: #404bbf;
 }
 
-.strategy-subtitle{
+.strategy-subtitle {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -170,6 +170,10 @@ h6 {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+}
+
+.footer-style {
+    background-color: #2E2F42;
 }
 
 .footer-text {
